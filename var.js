@@ -1,3 +1,3 @@
 var message;
-message = 'Hello, Siri!'
+message = 'Hello, Siri'
 console.log(message)
